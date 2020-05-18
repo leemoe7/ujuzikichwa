@@ -1,2 +1,3 @@
 # ujuzikichwa
-GitHub Pages
+Ujuzi Kichwa Group Website
+
